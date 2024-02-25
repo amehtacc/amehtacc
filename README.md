@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋Hey Aryan here
+My name is Aryan and I'm passionate Front End Developer who love building cool stuff on the internet!
+## About me
+📚 I'm currently learning JavaScript(revision) and Reactjs.  
+🎯 Goal: To become an Full Stack Web Developer.  
+🤓 Fun fact: I've built an entire website using just CSS animations!
 
-<!--
-**amehtacc/amehtacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I can code with
+![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/32px-C_Programming_Language.svg.png) &nbsp;&nbsp;
+![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/32px-ISO_C%2B%2B_Logo.svg.png) &nbsp;&nbsp;
+![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/32px-Java_programming_language_logo.svg.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/40px-HTML5_logo_and_wordmark.svg.png) &nbsp;
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/28px-CSS3_logo_and_wordmark.svg.png) &nbsp;&nbsp;
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/32px-JavaScript-logo.png)
