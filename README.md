@@ -1,7 +1,7 @@
 # 👋Hey Aryan here
 My name is Aryan and I'm passionate Front End Developer who love building cool stuff on the internet!
 ## About me
-📚 I'm currently learning JavaScript(revision) and Reactjs.  
+📚 I'm currently upgrading my Reactjs skills.  
 🎯 Goal: To become an Full Stack Web Developer.  
 🤓 Fun fact: I've built an entire website using just CSS animations!
 
